@@ -9,3 +9,11 @@ A Python project that analyzes resume text, detects technical skills, and provid
 - Calculates resume score
 - Shows missing keywords
 - Gives suggestions
+
+-------
+
+📂 **Future Enhancements**
+PDF resume upload
+NLP-based analysis
+Job-role matching
+Streamlit web app
